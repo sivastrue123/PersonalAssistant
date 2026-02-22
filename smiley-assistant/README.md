@@ -80,3 +80,7 @@ A romantic wellness application built with React, Capacitor, and Supabase.
 - `src/hooks`: Custom hooks (usePartner)
 - `src/supabase.ts`: Supabase client configuration
 - `supabase/schema.sql`: Database definitions
+
+## 🚀 Quick Start / Default User
+**Important:** There are no pre-seeded users. You must create one.
+See [QUICKSTART.md](./QUICKSTART.md) for instructions on how to disable email confirmation and create your first user.
